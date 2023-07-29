@@ -1,4 +1,7 @@
 # gusto_adversity_microbiome_SEF
+
+**NOTE**: Updated scripts that reflect analyses in the final, published version of the paper are currently being prepared for public posting. Look out for updated versions to be posted here very soon. 
+
 Analysis scripts used for the manuscript "Multigenerational adversity impacts on gut microbiome composition and socioemotional functioning in early childhood"
 
 Preprint at: https://psyarxiv.com/64m9g/, OSF project at: https://osf.io/c564x/, Paper at: https://www.pnas.org/doi/10.1073/pnas.2213768120.
