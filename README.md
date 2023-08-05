@@ -1,6 +1,6 @@
 # gusto_adversity_microbiome_SEF
 
-**NOTE**: Updated scripts that reflect analyses in the final, published version of the paper are currently being prepared for public posting. Look out for updated versions to be posted here very soon. 
+**NOTE**: Scripts that were updated or created during the review process have the extension "_PNASreviews". 
 
 Analysis scripts used for the manuscript "Multigenerational adversity impacts on gut microbiome composition and socioemotional functioning in early childhood"
 
